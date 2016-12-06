@@ -1,0 +1,32 @@
+body{
+margin:0;
+padding:0;
+color:#3B2936;
+background-color: #FFFAF8;
+font-family:"Open Sans",sans-serif;
+}
+main{
+	padding:0rem 25rem 0rem 5rem;
+}
+div{
+	margin:0;
+	padding:1rem 5rem 1rem 5rem;
+	background-color:#474F59;
+	color:#FFFAF8;
+}
+h1{
+	margin:0;
+}
+h2{
+	margin:0;
+	font-size:1.2rem;
+}
+p{
+
+}
+footer{
+	position:fixed;
+	padding:0rem 0rem 3rem 0rem;
+	bottom:0;
+	width:100%;
+}
